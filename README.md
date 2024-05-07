@@ -1,1 +1,1 @@
-# crypto-tracker
+This is a react app
